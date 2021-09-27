@@ -3,6 +3,8 @@ title: "Einführungsartikel"
 date: 2021-09-15
 ---
 
+## Wer bin ich? Und was erwartet mich in BAIN?
+
 Ich bin Cynthia Kohler, 25 Jahre alt und wohne im Kanton Aargau. 2015 schloss ich meine Ausbildung zur Kauffrau M-Profil auf der Gemeindeverwaltung ab. Anschliessend passte ich in einem befristeten Anstellungsverhältnis bei einer Kindes- und Erwachsenenschutzbehörde die bestehenden Korrespondenzvorlagen als Vorbereitung für das Neusystem an und überarbeitete Manuale, Dokumentationen und Prozesse. 
 
 Nach diesem kurzen Exkurs ins Kindes- und Erwachsenenschutzrecht begab ich mich in die Privatwirtschaft. Ich trat eine Stelle als Assistentin der Geschäfts- und Bauleitung bei einem Landschaftsgärtner an. Neben dem Kundenempfang half ich in der Buchhaltung und in der Marketingabteilung mit. Wie bereits bei der KESB gab es auch beim Landschaftsgärtner eine Systemumstellung. Einmal mehr war ich zwar hautnah dabei aber bei den spannenden Teilen (technische Implementierung, Datenmigration etc.) blieben mir die Türen verschlossen. 
