@@ -19,6 +19,6 @@ Erwartungen an das Modul zu stellen, fällt mir deshalb gerade noch schwer. In d
 Alles in allem bin ich sehr gespannt auf das Modul und freue mich, euch hier auf meinem Blog auf die BAIN-Reise mitzunehmen. So werde ich hier nach jeder Vorlesung ausgewählte Inhalte und Übungen reflektieren und meine erlebten Erfahrungen und Lerneffekte mit euch teilen.
 
 ---
-Anzahl Zeichen: 4’062
+Anzahl Zeichen: 4’068
 
 
