@@ -34,7 +34,7 @@ Ich fand es toll, dass wir endlich eine Einführung in Git erhielten, jedoch ben
 Alles in allem war es aber ein spannendes und lehrreiches Modul, wo ich gerade im Bibliotheksbereich viel profitieren konnte. Ich erhielt einen guten Überblick über die verschiedenen Themen und die Arbeit und Herausforderung von verschiedenen Metadatenstandards. Die Dozenten waren gut erreichbar und standen bei Fragen immer zur Stelle. Sie konnten ihr Wissen verständlich an mich weitergeben.
 
 ---
-Anzahl Zeichen: x’xxx
+Anzahl Zeichen: 3'260
 
 ### Quellen:
 [^1]: <https://bain.felixlohmeier.de/#/06_suchmaschinen-und-discovery-systeme?id=zwischenfazit> , zuletzt aufgerufen am 20.01.2022
