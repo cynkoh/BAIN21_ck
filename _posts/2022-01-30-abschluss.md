@@ -8,7 +8,7 @@ Das Semester ist nun zu Ende und das Modul BAIN bis auf diesen letzten Artikel a
 ### Was habe ich gelernt
 Wir haben in den vergangenen 9 Vorlesungen viele verschiedene Themen aus der Bibliotheks- und Archivwelt besprochen. Das Schaubild aus der Vorlesung zeigt dies gut auf:
 
-![Schaubild]https://i.ibb.co/YbzsFQC/01-Schaubild.png
+![Schaubild](https://i.ibb.co/YbzsFQC/01-Schaubild.png)
 <i> Schaubild zu den Lerninhalten [^1] </i>
 
 - *Systeme:* Zum einen haben wir die Systeme KOHA (Bibliothek), ArchivesSpace (Archiv) und DSpace (Repository) kennengelernt.
