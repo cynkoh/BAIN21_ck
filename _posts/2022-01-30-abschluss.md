@@ -1,6 +1,6 @@
 ---
 title: "Abschluss"
-date: 2022-01-31
+date: 2022-01-30
 ---
 
 Das Semester ist nun zu Ende und das Modul BAIN bis auf diesen letzten Artikel abgeschlossen. Zeit, das Gelernte zu reflektieren und noch offene Lücken zu erkennen.
