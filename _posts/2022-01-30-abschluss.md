@@ -1,5 +1,5 @@
 ---
-title: "Abschluss - Adieu"
+title: "Abschluss"
 date: 2022-01-31
 ---
 
